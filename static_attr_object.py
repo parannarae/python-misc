@@ -12,6 +12,9 @@ class StaticAttrObject:
             modules which requires __dict__ attribute
 
     Note: private class attributes (i.e. variable with `_` or `__` prefix) are not allowed.
+    
+    From python 3.7, dataclasses can be used instead of this:
+        https://docs.python.org/3.7/library/dataclasses.html
     """
     def __repr__(self):
         return (
