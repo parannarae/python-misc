@@ -1,0 +1,233 @@
+[
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/09h-00m_09h-09m_top001_cam4_fid00370_traj053.jpg",
+                "capturedAt": "${target_date}T00:02:03Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            },
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/video_generation/09h-00m_09h-09m_top001_cam4_fid00370_traj053.mp4",
+                "capturedAt": "${target_date}T00:01:58Z",
+                "capturedDuration": 10,
+                "type": "VIDEO"
+            }
+        ],
+        "tagNames": [
+            "역할"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/2025-03-01/image_selection/09h-09m_09h-20m_top001_cam2_fid00394_traj017.jpg",
+                "capturedAt": "${target_date}T00:11:11Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "신체"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/09h-20m_09h-30m_top001_cam8_fid00019_traj015.jpg",
+                "capturedAt": "${target_date}T00:20:06Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "기타"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/09h-30m_09h-40m_top001_cam5_fid00469_traj001.jpg",
+                "capturedAt": "${target_date}T00:32:36Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "역할"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/09h-40m_09h-50m_top001_cam2_fid00562_traj211.jpg",
+                "capturedAt": "${target_date}T00:43:07Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "역할"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/09h-50m_10h-00m_top001_cam3_fid00229_traj086.jpg",
+                "capturedAt": "${target_date}T00:51:16Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "언어"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/2025-01-14/video_generation/09h-50m_10h-00m_top001_cam3_fid00229_traj086.mp4",
+                "capturedAt": "${target_date}T00:51:11Z",
+                "capturedDuration": 7,
+                "type": "VIDEO"
+            }
+        ],
+        "tagNames": [
+            "언어"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/10h-00m_10h-10m_top001_cam3_fid01297_traj247.jpg",
+                "capturedAt": "${target_date}T01:07:12Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "기타"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/video_generation/10h-00m_10h-10m_top001_cam3_fid01297_traj247.mp4",
+                "capturedAt": "${target_date}T01:07:07Z",
+                "capturedDuration": 10,
+                "type": "VIDEO"
+            }
+        ],
+        "tagNames": [
+            "기타"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/10h-10m_10h-20m_top001_cam3_fid00286_traj047.jpg",
+                "capturedAt": "${target_date}T01:11:35Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "역할"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/10h-20m_10h-30m_top001_cam8_fid01207_traj409.jpg",
+                "capturedAt": "${target_date}T01:26:42Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "수조작"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/10h-30m_10h-40m_top001_cam8_fid00076_traj046.jpg",
+                "capturedAt": "${target_date}T01:30:25Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "기타"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/11h-20m_11h-30m_top001_cam8_fid00883_traj090.jpg",
+                "capturedAt": "${target_date}T02:24:54Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "언어"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/11h-30m_11h-40m_top001_cam8_fid00697_traj011.jpg",
+                "capturedAt": "${target_date}T02:33:52Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "언어"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/11h-40m_11h-50m_top001_cam8_fid00025_traj010.jpg",
+                "capturedAt": "${target_date}T02:40:08Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "언어"
+        ]
+    },
+    {
+        "media": [
+            {
+                "bucket": "storyline-dev",
+                "key": "datalake/${dependent_id}/${target_date}/image_selection/11h-50m_12h-00m_top001_cam8_fid01615_traj080.jpg",
+                "capturedAt": "${target_date}T02:58:58Z",
+                "capturedDuration": null,
+                "type": "IMAGE"
+            }
+        ],
+        "tagNames": [
+            "식사하기"
+        ]
+    }
+]
